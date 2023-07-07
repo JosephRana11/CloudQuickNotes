@@ -25,7 +25,6 @@ platformdirs==3.8.0
 pure-eval==0.2.2
 PyJWT==2.7.0
 pytz==2023.3
-pywin32==227
 requests==2.30.0
 schedule==1.2.0
 soupsieve==2.4.1
